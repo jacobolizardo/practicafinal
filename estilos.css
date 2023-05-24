@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #b8b640;
+    padding: 20px;
+  }
+  
+  #menu-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #menu-list li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  #menu-list li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  #menu-list li a:hover {
+    text-decoration: underline;
+  }
+  
